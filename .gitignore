@@ -1,0 +1,42 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*
+!.gitignore
+!*/
+!Minecraft.Client/Nectarboy/PCInput.h
+!Minecraft.Client/Nectarboy/PCInput.cpp
+!Minecraft.Client/Windows64/Windows64_Minecraft.cpp
+!Minecraft.Client/UIController.cpp
+!Minecraft.Client/Input.cpp
+!Minecraft.Client/Minecraft.cpp
