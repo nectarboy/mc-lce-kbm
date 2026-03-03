@@ -37,6 +37,6 @@
 !Minecraft.Client/Nectarboy/PCInput.h
 !Minecraft.Client/Nectarboy/PCInput.cpp
 !Minecraft.Client/Windows64/Windows64_Minecraft.cpp
-!Minecraft.Client/UIController.cpp
+!Minecraft.Client/Common/UI/UIController.cpp
 !Minecraft.Client/Input.cpp
 !Minecraft.Client/Minecraft.cpp
